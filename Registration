@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kooda - Play Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to Kooda</h1>
+    <p>The 2D platform is coming soon!</p>
+    <script src="script.js"></script>
+</body>
+</html>
